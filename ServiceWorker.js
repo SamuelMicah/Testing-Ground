@@ -1,9 +1,9 @@
 const cacheName = "samuelmicah-MyWebsite-1.0";
 const contentToCache = [
     "Build/public.loader.js",
-    "Build/public.framework.js.br",
-    "Build/public.data.br",
-    "Build/public.wasm.br",
+    "Build/public.framework.js",
+    "Build/public.data",
+    "Build/public.wasm",
     "TemplateData/style.css"
 
 ];
